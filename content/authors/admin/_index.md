@@ -1,6 +1,7 @@
 ---
 title: Ananta Asim Joy
 role: Professor of Artificial Intelligence
+avatar_filename: https://avatars.githubusercontent.com/u/20082638?s=400&u=0fc8c5a4ccae847722007238d2cddd466d66bd69&v=4
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
